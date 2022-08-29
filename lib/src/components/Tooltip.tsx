@@ -1,6 +1,6 @@
 import React from "react";
 import type { RefObject } from "react";
-import { PathTooltip } from "react-path-tooltip";
+import { PathTooltip } from "react-path-tooltip-pi";
 
 export interface Props {
   tip?: string;

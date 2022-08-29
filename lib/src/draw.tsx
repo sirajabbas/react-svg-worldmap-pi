@@ -1,6 +1,6 @@
 import type { RefObject } from "react";
 import React from "react";
-import { PathTooltip } from "react-path-tooltip";
+import { PathTooltip } from "react-path-tooltip-pi";
 
 export function drawTooltip(
   tip: string | undefined,
